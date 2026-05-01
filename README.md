@@ -70,6 +70,8 @@ git clone https://github.com/selimozel03/lazydocker-presentation.git
 cd lazydocker-presentation
 ```
 
+On Windows, make sure Docker Desktop is open and the engine is running before proceeding.
+
 Start the demo environment:
 
 ```bash
