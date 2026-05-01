@@ -199,11 +199,11 @@ Data Engineering Notes
 
 **pgAdmin — query output:**
 
-![pgAdmin query output showing sales table results](screenshots/demo_pgadmin.png)
+![pgAdmin query output showing sales table results](assets/demo_pgadmin.png)
 
 **Lazydocker — container overview:**
 
-![Lazydocker terminal UI showing running containers](screenshots/demo_lazydocker.png)
+![Lazydocker terminal UI showing running containers](assets/demo_lazydocker.png)
 
 ## 9. Files in This Repository
 
